@@ -1,8 +1,8 @@
 ; ================================================================
 ; waifu2x-gimp.scm
 ; Script GIMP - Super-résolution style Waifu2x
-; Auteur    : Salah JAAFAR - CIMS
-; Copyright : Salah JAAFAR - Centre Informatique du Ministère de la Santé
+; Auteur    : Salah JAAFAR 
+; Copyright : Salah JAAFAR 
 ; Version   : 1.0
 ;
 ; Description :
